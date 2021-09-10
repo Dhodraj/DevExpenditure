@@ -1,0 +1,12 @@
+.Heading{
+    text-align:center;
+    padding:10px;
+    border-radius:10px ;
+    width: max-content;
+    background-color: black;
+    color: white;
+}
+.Heading:hover{
+    cursor: pointer;
+    
+}
